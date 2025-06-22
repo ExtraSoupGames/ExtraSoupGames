@@ -1,5 +1,11 @@
 Hi, I’m @ExtraSoupGames
 I am a passionate game developer interested in using and making tools to bring unique game ideas to life
+## Tools
+I have previously used exclusively Unity, but after learning C# and monogame, I branched out to my current toolset which consists of:
+- Godot
+- C++
+- SDL3
+
 ## Active Projects
 ### [UDP Game Networking](https://github.com/ExtraSoupGames/UDPGameNetworking)
 An engine agnostic UDP game networking library built in C++ with SDL3
