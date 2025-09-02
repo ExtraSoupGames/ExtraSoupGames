@@ -15,6 +15,9 @@ Features include message acknowledgement, value streaming, and lerping
 ### Loco-comotives
 I'm also developing a 3D train management game in Godot called Loco-comotives, the code for this is available on request, and it is still in very early development
 
+### [Traffic Game](https://github.com/ExtraSoupGames/TrafficGame)
+A small traffic game built with Typescript and Babylon.js, still early in development, playable [Here](https://extrasoupgames.github.io/TrafficGame)
+
 ## Past Projects
 ### [Tidal Tussle](https://github.com/ExtraSoupGames/Ship-game-client)
 A small game demo about fighting enemies off of a ship, utilises custom UDP networking with SDL to facilitate up to 4 players with minimal stuttering
