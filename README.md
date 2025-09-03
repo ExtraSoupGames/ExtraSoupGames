@@ -6,6 +6,8 @@ I have previously used exclusively Unity, but after learning C# and monogame, I 
 - Godot
 - C++
 - SDL3
+- Typescript
+- Babylon.js
 
 ## Active Projects
 ### [UDP Game Networking](https://github.com/ExtraSoupGames/UDPGameNetworking)
