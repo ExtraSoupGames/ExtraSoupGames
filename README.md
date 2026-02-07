@@ -24,6 +24,7 @@ An engine agnostic UDP game networking library built in C++ with SDL3
 Features include message acknowledgement, value streaming, and lerping
 
 ![UDPGameNetworking Demo](UDPGameNetworkingGIF.gif)
+![UDPGameNetworking Demo with explanation](https://youtu.be/ibkF_ioUvFo)
 
 ### [Tidal Tussle](https://github.com/ExtraSoupGames/Ship-game-client)
 A small game demo about fighting enemies off of a ship, utilises custom UDP networking with SDL to facilitate up to 4 players with minimal stuttering
