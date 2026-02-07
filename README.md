@@ -37,3 +37,6 @@ A small VR game demo made in a group using Unity and OpenXR to teach people abou
 
 ### [Traffic Game](https://github.com/ExtraSoupGames/TrafficGame)
 A very small traffic game built with Typescript and Babylon.js, playable [Here](https://extrasoupgames.github.io/TrafficGame)
+
+![Traffic Game Demo](Typescript game demo gif.gif)
+[![Traffic Game Demo](https://img.youtube.com/vi/ZeHvkjjsCvI/0.jpg)](https://youtu.be/ZeHvkjjsCvI)
