@@ -14,6 +14,8 @@ I have previously used exclusively Unity, but after learning C# and monogame, I 
 ## Active Projects
 ### [Due Process](https://dueprocess.info)
 I have been a contributor to Due Process since July 2025, fixing bugs and improving player experience for a large scale project in Unity with C#
+**Available on steam**
+[![Steam Widget](https://cdn.cloudflare.steamstatic.com/steam/apps/753650/header.jpg)](https://store.steampowered.com/app/753650/)
 
 ### Loco-comotives
 I am developing a 3D train management game in Godot called Loco-comotives, the code for this is available on request, and it is still in very early development
